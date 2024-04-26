@@ -1,0 +1,4 @@
+E:\Workstation\Assemblies\Ksh_PlagueGun2.dll
+E:\Workstation\VisualStudio\Ksh_PlagueGun-master\obj\Debug\Ksh_PlagueGun.csproj.AssemblyReference.cache
+E:\Workstation\VisualStudio\Ksh_PlagueGun-master\obj\Debug\Ksh_PlagueGun.csproj.CoreCompileInputs.cache
+E:\Workstation\VisualStudio\Ksh_PlagueGun-master\obj\Debug\Ksh_PlagueGun2.dll
